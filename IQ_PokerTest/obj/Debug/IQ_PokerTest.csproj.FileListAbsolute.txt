@@ -1,0 +1,7 @@
+F:\Projects\IQMetrix\IQ_PokerTest\IQ_PokerTest\obj\Debug\IQ_PokerTest.csprojResolveAssemblyReference.cache
+F:\Projects\IQMetrix\IQ_PokerTest\IQ_PokerTest\obj\Debug\IQ_PokerTest.csproj.CoreCompileInputs.cache
+F:\Projects\IQMetrix\IQ_PokerTest\IQ_PokerTest\bin\Debug\IQ_PokerTest.exe.config
+F:\Projects\IQMetrix\IQ_PokerTest\IQ_PokerTest\bin\Debug\IQ_PokerTest.exe
+F:\Projects\IQMetrix\IQ_PokerTest\IQ_PokerTest\bin\Debug\IQ_PokerTest.pdb
+F:\Projects\IQMetrix\IQ_PokerTest\IQ_PokerTest\obj\Debug\IQ_PokerTest.exe
+F:\Projects\IQMetrix\IQ_PokerTest\IQ_PokerTest\obj\Debug\IQ_PokerTest.pdb
