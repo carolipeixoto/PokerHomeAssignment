@@ -28,10 +28,7 @@ namespace IQ_PokerTest.Class
             PlayerName = arrayCards[0];
 
             if (arrayCards.Count() != 6)
-            {
-                
                 qError += 1;
-            }
 
             foreach (var item in arrayCards.Skip(1))
             {
